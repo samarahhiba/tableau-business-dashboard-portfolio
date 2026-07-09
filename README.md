@@ -21,7 +21,7 @@ A business analytics dashboard focused on financial/consumer complaint performan
 - Filters and dashboard-level formatting
 - Business insight writing for non-technical audiences
 
-**Suggested files:**
+**files:**
 
 ```text
 financial-dashboard/
@@ -47,7 +47,7 @@ A Tableau chart-building assignment focused on implementing core chart types and
 - Filters and marks card formatting
 - Insight writing for each visualization
 
-**Suggested files:**
+**files:**
 
 ```text
 assignment-1-tableau-charts/
@@ -62,7 +62,7 @@ assignment-1-tableau-charts/
 
 An interactive Tableau dashboard prototype showing candidate-wise and county-wise election-pattern analysis. The dashboard includes date filters, candidate vote comparisons, party color encoding, and a county-level map.
 
-**Important note:** This dashboard was created as an educational Tableau dashboard-building project. The dataset should be interpreted as class/project data for visualization practice, not as official certified election reporting.
+**Important note:** This dashboard was created as an educational Tableau dashboard-building project. The dataset should be interpreted as class/project data for visualization practice, not as official certified election reporting (although it is rather accurate).
 
 **Skills demonstrated:**
 
@@ -73,7 +73,7 @@ An interactive Tableau dashboard prototype showing candidate-wise and county-wis
 - Dashboard layout and filtering
 - Written analysis of candidate rankings and geographic patterns
 
-**Suggested files:**
+**files:**
 
 ```text
 california-governor-election-dashboard/
@@ -84,7 +84,7 @@ california-governor-election-dashboard/
 
 ---
 
-## Recommended Repository Structure
+## Repository Structure
 
 ```text
 tableau-business-dashboard-portfolio/
